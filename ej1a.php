@@ -8,7 +8,7 @@
 <?php
   
    #Raquel Alcázar
-
+  /*ALFONSO:<<<< Muy bien resuelto ... */
     echo "<table border=1>";
     echo "<tr>";
         echo "<th> Indice </th>";
